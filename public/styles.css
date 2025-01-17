@@ -1,0 +1,25 @@
+.bg {
+    background-image: url("assets/mansitting.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+}
+.title {
+    color: darkgoldenrod;
+    font-family: Bahnschrift , monospace;
+    padding-left: 15px;
+}
+.gh {
+    color: #cb42b6;
+    font-family: "Cascadia Mono", monospace;
+    padding-left: 15px;
+}
+hr {
+    background-color: rgba(82, 74, 74, 0.84);
+    height: 5px;
+    border: none;
+    margin: 20px 0;
+    padding: 0;
+}
